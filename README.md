@@ -6,3 +6,6 @@ Fourth line added from developer A
 
 change1
 change2
+
+change3
+change4
